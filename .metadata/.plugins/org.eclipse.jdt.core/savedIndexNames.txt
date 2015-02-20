@@ -2,7 +2,6 @@ INDEX VERSION 1.127+/home/stefan/sensor/.metadata/.plugins/org.eclipse.jdt.core
 747742781.index
 2999326421.index
 3885903570.index
-2973006361.index
 3840181845.index
 2125921259.index
 2609942418.index
